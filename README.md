@@ -1,9 +1,9 @@
-# 🧮 Calculator
+Calculator
 
 A simple and user-friendly calculator built using HTML, CSS, and JavaScript.  
 This project performs basic arithmetic operations through a clean and responsive interface.
 
-## 🚀 Features
+🚀 Features
 
 - ➕ Addition
 - ➖ Subtraction
@@ -14,13 +14,13 @@ This project performs basic arithmetic operations through a clean and responsive
 - 📱 Responsive design
 - ⚡ Instant calculation using JavaScript
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - HTML5 – Structure of the calculator
 - CSS3 – Styling and layout
 - JavaScript – Calculator functionality and operations
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 `text
 Calculator/
